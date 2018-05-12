@@ -1,0 +1,35 @@
+_repo: Journals-of-Dorothy-Wordsworth-Vol.-II--of-2-_42857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wordsworth, Dorothy
+    birthdate: 1771
+    deathdate: 1855
+    gutenberg_agent_id: '33567'
+    url: http://www.gutenberg.org/2009/agents/33567
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Wordsworth
+  editor:
+    agent_name: Knight, William Angus
+    birthdate: 1836
+    deathdate: 1916
+    gutenberg_agent_id: '3388'
+    url: http://www.gutenberg.org/2009/agents/3388
+description: ''
+gutenberg_issued: '2013-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wordsworth, William, 1770-1850 -- Family'
+- !lcc 'PR'
+- !lcsh 'Wordsworth, Dorothy, 1771-1855 -- Diaries'
+- !lcsh 'Authors, English -- 19th century -- Diaries'
+title: Journals of Dorothy Wordsworth, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/42857
